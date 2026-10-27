@@ -1539,3 +1539,5 @@ if __name__ == '__main__':
                                     "Evaluating NAIVE_BASELINE_global_model on test_loader")
     evaluate_baseline_vs_specialist(baseline_MoE_TASK_IL, test_loader, class_to_idx_new_baseline_MoE_TASK_IL,
                                     "Evaluating MoE_TASK-IL_BASELINE on test_loader")'''
+
+    ##test
