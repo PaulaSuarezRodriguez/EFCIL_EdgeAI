@@ -26,7 +26,7 @@ Then, to train any of the specialised models, run their respective scripts. Then
 MoE_gating_network_vFinal.py. However, all models and baselines presented in the Project Report can be found 
 in folders final_specialised_models and final_specialised_models_BASELINE. To evaluate these models, run script Evaluate_BASELINE_vFinal.py. This is the case 
 for all models except the final MoE model (MoE_gating_network_vFinal.py) and the MoE baselines 
-(MoE_TASK-IL_BASELINE_vFinal.py and Alternatives_to_Aggregation_MoE_NO_OOD_BASELINE_vFinal.py), which need their respective scripts executed for the models to be evaluated.
+(MoE_TASK-IL_BASELINE_vFinal.py and MoE_NO_OOD_BASELINE_vFinal.py), which need their respective scripts executed for the models to be evaluated.
 
 Whether to re-run the experiments or to evaluate the models in folders final_specialised_models and final_specialised_models_BASELINE, you will have to change the 
 file path whenever the models are loaded into the scripts to the location where the project and relevant folders are located in your machine after downloading the 
