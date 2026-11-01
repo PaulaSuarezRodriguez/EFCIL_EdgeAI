@@ -5,4 +5,8 @@
     <orderEntry type="jdk" jdkName="C:\Users\lamus\anaconda3\envs\OnDeviceCL_Avalanche_PyTorch_TorchAO_training_conda_env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
 </module>
